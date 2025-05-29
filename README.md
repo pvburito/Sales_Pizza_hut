@@ -1,8 +1,10 @@
 # Sales_Pizza_hut
 
 Welcome to the **Data of Pizza Sales and Analytics Porject** repository! thanks to this video that I watched to learn and do this project as an exercise to keep learning https://www.youtube.com/feed/history
+
 --
 ### Objectives
+-- 
 
 **Basic:**
 
